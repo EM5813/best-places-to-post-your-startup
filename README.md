@@ -14,7 +14,6 @@ Areeb Ahmed Khan (The AI Khan) is an AI product builder from Karachi, Pakistan. 
 
 ## Contents
 
-
 - [How we chose](#how-we-chose)
 - [Launch platforms](#launch-platforms)
 - [Startup databases](#startup-databases)
